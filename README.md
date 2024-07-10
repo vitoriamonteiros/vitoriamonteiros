@@ -11,9 +11,4 @@
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=vitoriamonteiros&show_icons=true&theme=radical&layout=compact" />
  </div>
  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitoriamonteiros/vitoriamonteiros/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitoriamonteiros/vitoriamonteiros/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitoriamonteiros/vitoriamonteiros/output/github-contribution-grid-snake.svg">
-</picture>
 <br><br>
