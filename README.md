@@ -1,4 +1,4 @@
- 👋 Oi! Eu sou Vitória Monteiro, e minha paixão é Desenvolvimento Web, UI Design e Design Gráfico. 💜
+ 👋 Oi! Eu sou a Vitória Monteiro, e minha paixão é Desenvolvimento Web, UI Design e Design Gráfico. 💜
 
 ## Tecnologias e Ferramentas
 
