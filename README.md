@@ -27,7 +27,7 @@
    ## Contato
    
 <p align="center">
-  <a href="https://www.linkedin.com/in/vitorimonteiros/">
+  <a href="https://www.linkedin.com/in/vitoriamonteiros/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="35">
   </a>
   <a href="https://www.behance.net/vitoriamonteiro/">
