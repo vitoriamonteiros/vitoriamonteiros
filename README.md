@@ -38,12 +38,6 @@
   </a>
 </p>
 
-   ##
-   
-<div align="center"> 
- 
- ![Visualizações do Perfil](https://komarev.com/ghpvc/?username=vitoriamonteiros&color=blue)
- 
-</div>
+
   
  
