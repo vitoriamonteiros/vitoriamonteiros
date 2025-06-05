@@ -1,4 +1,12 @@
- 👋 Olá! Sou a Vitória Monteiro, e minha paixão é transformar ideias em experiências digitais através de Desenvolvimento Web, UI Design e Design Gráfico. 💜
+<h1 align="center">👋 Olá, eu sou a Vitória Monteiro!</h1>
+
+<p align="center">
+Transformo ideias em experiências digitais. Tenho experiência com Design Gráfico, UI Design e Desenvolvimento Web — e atualmente estou explorando o mundo da programação back-end com Java. 💜
+</p>
+
+ ## 💼 Em Transição
+
+Atualmente estou em transição para o desenvolvimento back-end, com foco em Java e estruturas robustas de código. Estou estudando fundamentos da linguagem, orientação a objetos e iniciando projetos para consolidar esse novo caminho.
 
 ## Tecnologias e Ferramentas
 
@@ -7,6 +15,7 @@
  <img align="center" alt="Rodrigo-CSS3" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Rodrigo-Js" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Rodrigo-Bootstrap" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+ <img alt="Java" title="Java" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
  <img align="center" alt="Figma" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
  <img align="center" alt="Illustrator" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
  <img align="center" alt="Photoshop" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
@@ -27,13 +36,13 @@
    ## Contato
    
 <p align="center">
-  <a href="https://www.linkedin.com/in/vitoriamonteiros/">
+  <a href="https://www.linkedin.com/in/vitoriamonteiros/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="35">
   </a>
-  <a href="https://www.behance.net/vitoriamonteiro/">
+  <a href="https://www.behance.net/vitoriamonteiro/"target="_blank">
     <img alt="Behance" src="https://img.shields.io/badge/-Behance-1769ff?style=flat-square&logo=Behance&logoColor=white" height="35">
   </a>
-  <a href="https://www.vitoriamonteiro.com.br">
+  <a href="https://www.vitoriamonteiro.com.br" target="_blank">
     <img alt="Site" src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=Web&logoColor=white" height="35">
   </a>
 </p>
