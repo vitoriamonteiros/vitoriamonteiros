@@ -1,6 +1,9 @@
+<br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4f389648-b6a7-4865-8dac-f4ca5234d728" alt="Logo Vitória Monteiro" max-width="500"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=5EEED5&center=true&vCenter=true&width=750&lines=Hello,+eu+me+chamo+Vitória+Monteiro.;Seja+bem-vindo!+:)" />
 </p>
+<br>
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vitoriamonteiros&color=19B8A9&style=for-the-badge" alt="Visualizações de perfil" />
