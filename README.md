@@ -26,6 +26,10 @@ Sou formada em Sistemas para Internet pela Fatec e transformo ideias em experiê
 Atualmente, estou me aprofundando no <strong>Back-End com Java</strong> e explorando o universo da <strong>Cloud Computing</strong>, aplicando meus conhecimentos em projetos práticos para consolidar habilidades e criar soluções escaláveis e robustas. Recentemente, conquistei a certificação <strong>AWS Certified Cloud Practitioner</strong>, reforçando minha base em computação em nuvem e ampliando minha capacidade de desenvolver soluções modernas e alinhadas às boas práticas da AWS. Sou movida por desafios, adoro criar soluções criativas e funcionais e estou sempre buscando aplicar meus conhecimentos em projetos reais para evoluir continuamente minhas habilidades técnicas e de resolução de problemas. 
 </p>
 
+## Certificações
+
+[![AWS Cloud Practitioner](assets/badges/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/10fd410e-6ebe-4a51-a3e3-215fbe1b7b44/)
+
 
 ## Tecnologias & Ferramentas
 
